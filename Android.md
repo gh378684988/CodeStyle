@@ -55,7 +55,8 @@ icon 的命名方式为：前缀_类型_
 |-----------------------------------|-----------------|---------------------------|
 | Icons                             | ic_             | ic_star.png               |
 | Launcher icons                    | ic_launcher     | ic_launcher_calendar.png  |
-| Menu icons and Action Bar icons   | ic_menu         | ic_menu_archive.png       |
+| Action Bar icons                  | ic_ab           | ic_ab_back.png            |
+| Menu icons                        | ic_menu         | ic_menu_archive.png       |
 | Status bar icons                  | ic_notification | ic_notification_msg.png   |
 | Tab icons                         | ic_tab          |	ic_tab_recent.png         |
 | Dialog icons                      | ic_dialog       | ic_dialog_info.png        |
